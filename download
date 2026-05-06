@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local working / backup files (do not commit raw source materials)
+/working/
+/_drafts/
+*.bak
+*.orig
+*.tmp
+
+# Don't accidentally commit local exports / test data
+/exports/
+employees-*.json
